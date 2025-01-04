@@ -1,0 +1,8 @@
+[package]
+name = "squirrel-prng"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+description = "Squirrel 5 PRNG"
+
+[dependencies]
